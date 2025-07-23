@@ -45,5 +45,10 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
-  
+
+extra:
+  social:
+    - icon: simple/linkedin
+      link: https://linkedin.com/in/jsdazaa
+
 copyright: Copyright &copy; 2025 Johan Daza
