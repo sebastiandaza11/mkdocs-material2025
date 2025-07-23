@@ -23,7 +23,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary: cyan
       accent: deep orange
 
 
