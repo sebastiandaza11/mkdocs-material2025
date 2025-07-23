@@ -46,8 +46,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-extra:
-  social:
+plugins:
+- social:
     - icon: simple/linkedin
       link: https://linkedin.com/in/jsdazaa
 
