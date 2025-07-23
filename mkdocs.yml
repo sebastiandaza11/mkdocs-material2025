@@ -1,6 +1,7 @@
 site_name: Professeur Johan Daza
 site_url: https://sitename.example
 theme:
+  language: fr
   name: material
   font:
     text: Merriweather Sans
